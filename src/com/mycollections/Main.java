@@ -37,7 +37,7 @@ public class Main {
         // Delete all.
         mySet.clear();
 
-        // Checking that mySet dors not contain any elements.
+        // Checking that mySet does not contain any elements.
         System.out.println(mySet.isEmpty()); // Output: true
 
     }
